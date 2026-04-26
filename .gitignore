@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints and caches
+*.bin
+*.pt
+*.ckpt
+cached_*/
+runs/
+results/
+
+# Data
+*.rar
+*.zip
+
+# OS
+.DS_Store
